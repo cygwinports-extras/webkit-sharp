@@ -29,15 +29,15 @@ Canonical download:
 -------------------------------------------
 
 Build instructions:
-  unpack webkit-sharp-0.2.103605-X-src.tar.bz2
+  unpack webkit-sharp-0.3.105827-X-src.tar.bz2
     if you use setup to install this src package, it will be
 	 unpacked under /usr/src automatically
   cd /usr/src
-  cygport ./webkit-sharp-0.2.103605-X.cygport all
+  cygport ./webkit-sharp-0.3.105827-X.cygport all
 
 This will create:
-  /usr/src/webkit-sharp-0.2.103605-X-src.tar.bz2
-  /usr/src/webkit-sharp-0.2.103605-X.tar.bz2
+  /usr/src/webkit-sharp-0.3.105827-X-src.tar.bz2
+  /usr/src/webkit-sharp-0.3.105827-X.tar.bz2
 
 -------------------------------------------
 
@@ -49,17 +49,20 @@ Files included in the binary package:
   /usr/lib/monodoc/sources/webkit-sharp-docs.source
   /usr/lib/monodoc/sources/webkit-sharp-docs.tree
   /usr/lib/monodoc/sources/webkit-sharp-docs.zip
-  /usr/lib/pkgconfig/webkit-sharp.pc
-  /usr/share/doc/webkit-sharp-0.2.103605/AUTHORS
-  /usr/share/doc/webkit-sharp-0.2.103605/COPYING
-  /usr/share/doc/webkit-sharp-0.2.103605/ChangeLog
-  /usr/share/doc/webkit-sharp-0.2.103605/INSTALL
-  /usr/share/doc/webkit-sharp-0.2.103605/NEWS
-  /usr/share/doc/webkit-sharp-0.2.103605/README
+  /usr/lib/pkgconfig/webkit-sharp-1.0.pc
+  /usr/share/doc/webkit-sharp-0.3.105827/AUTHORS
+  /usr/share/doc/webkit-sharp-0.3.105827/COPYING
+  /usr/share/doc/webkit-sharp-0.3.105827/ChangeLog
+  /usr/share/doc/webkit-sharp-0.3.105827/INSTALL
+  /usr/share/doc/webkit-sharp-0.3.105827/NEWS
+  /usr/share/doc/webkit-sharp-0.3.105827/README
 
 ------------------
 
 Port Notes:
+
+----- version 0.3.105827-1 -----
+Version bump.
 
 ----- version 0.2.103605-1 -----
 Initial release for Cygwin.

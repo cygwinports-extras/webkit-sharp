@@ -1,0 +1,4 @@
+SVN_REV=${PVP[2]}
+inherit mono svn
+
+DESCRIPTION="Mono WebKit/GTK+ bindings"
