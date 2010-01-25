@@ -1,0 +1,9 @@
+inherit mono
+
+DESCRIPTION="Mono WebKit/GTK+ bindings"
+
+PATCH_URI="0.3-cygwin.patch
+           0.3-vpath.patch"
+
+PKG_NAMES="${PN} mono-${PN}1.1"
+mono_webkit_sharp1_1_CONTENTS="usr/"

@@ -1,0 +1,3 @@
+category: DotNET Gnome
+sdesc: "Mono WebKit/GTK+ bindings (sources)"
+ldesc: "Mono C# bindings for the WebKit/GTK+ browser engine"

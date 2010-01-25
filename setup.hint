@@ -1,4 +1,0 @@
-category: Dotnet Gnome Web
-requires: glib-sharp2 gtk-sharp2 mono webkit
-sdesc: "Mono WebKit/GTK+ bindings"
-ldesc: "Mono C# bindings for the WebKit/GTK+ browser engine"
