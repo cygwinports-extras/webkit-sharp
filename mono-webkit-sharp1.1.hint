@@ -1,5 +1,5 @@
 category: DotNET Gnome
-requires: libwebkit1.0_2 mono mono-glib-sharp2.0 mono-gtk-sharp2.0
+requires: libwebkitgtk1.0_0 mono mono-glib-sharp2.0 mono-gtk-sharp2.0
 external-source: webkit-sharp
 sdesc: "Mono WebKit/GTK+ bindings"
 ldesc: "Mono C# bindings for the WebKit/GTK+ browser engine"
